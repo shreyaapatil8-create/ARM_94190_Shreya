@@ -1,0 +1,10 @@
+13:04:37 **** Incremental Build of configuration Debug for project dec_to_bin.c ****
+make -j12 all 
+arm-none-eabi-size  dec_to_bin.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5052	     92	   1900	   7044	   1b84	dec_to_bin.c.elf
+Finished building: default.size.stdout
+ 
+
+13:04:38 Build Finished. 0 errors, 0 warnings. (took 295ms)
+
