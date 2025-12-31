@@ -160,9 +160,11 @@ bool lcd16x2_i2c_init(I2C_HandleTypeDef *pI2cHandle)
     lcd16x2_i2c_sendCommand(0x30);
     HAL_Delay(1);
 
-    /* Switch LCD to 4-bit mode */
+        /* Switch LCD to 4-bit mode */
     lcd16x2_i2c_sendCommand(0x20);
     HAL_Delay(1);
+
+
 
     /* Function set: 4-bit, 2-line display */
     lcd16x2_i2c_sendCommand(LCD_FUNCTIONSET + LCD_FUNCTION_N);

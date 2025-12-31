@@ -294,3 +294,33 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\shrey\O
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-30 20:05:03.288
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-12-31 15:42:56.846 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\shrey\OneDrive\Desktop\git\ARM_94190_Shreya\Assignment 7
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-31 15:43:03.738
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-31 15:43:03.740
+!MESSAGE Log4j2 initialized with config file C:\Users\shrey\OneDrive\Desktop\git\ARM_94190_Shreya\Assignment 7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-31 15:43:15.771
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-12-31 15:45:45.823 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\shrey\OneDrive\Desktop\git\ARM_94190_Shreya\Assignment 7
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-31 15:45:58.262
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-31 15:45:58.264
+!MESSAGE Log4j2 initialized with config file C:\Users\shrey\OneDrive\Desktop\git\ARM_94190_Shreya\Assignment 7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-31 15:46:12.203
+!MESSAGE Started RMI Server, listening on port 41337
