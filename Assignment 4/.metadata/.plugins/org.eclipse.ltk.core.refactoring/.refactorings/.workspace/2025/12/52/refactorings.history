@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;extend_exti_functionality&apos; to &apos;Q2_ASSI_5&apos;" description="Rename resource &apos;extend_exti_functionality&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/extend_exti_functionality" name="Q2_ASSI_5" stamp="1766718746728" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;extend_exti_functionality&apos; to &apos;Q3_ASSI_5&apos;" description="Rename resource &apos;extend_exti_functionality&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/extend_exti_functionality" name="Q3_ASSI_5" stamp="1766718791564" updateReferences="true"/>
+</session>
